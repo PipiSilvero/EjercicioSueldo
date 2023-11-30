@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\bin\Debug\net6.0-windows\EjercicioSueldo.exe
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\bin\Debug\net6.0-windows\EjercicioSueldo.deps.json
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\bin\Debug\net6.0-windows\EjercicioSueldo.runtimeconfig.json
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\bin\Debug\net6.0-windows\EjercicioSueldo.dll
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\bin\Debug\net6.0-windows\EjercicioSueldo.pdb
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.Form1.resources
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.dll
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\refint\EjercicioSueldo.dll
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.pdb
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\EjercicioSueldo.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\EjercicioSueldo\EjercicioSueldo\obj\Debug\net6.0-windows\ref\EjercicioSueldo.dll
